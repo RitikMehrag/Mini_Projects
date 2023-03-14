@@ -2,9 +2,9 @@
 In the process of learning the Python programmming language, I tried to put all the concepts into practice, especially with the help of mini projects. I will upload here all mini projects one by one. Let me know if you have any suggestions
 # Mini-Project-01-)
 ## Generating Data with noise, Plotting Single file data with best fit curves and Multiple Text File Handling
-### objectives
+### objectives:
 Generating Data with noise, Plottng single file data with best fit curves and Multiple File Handling.
-### Conclusion
+### Conclusion:
 4 steps for curve fitting and distribtution
 * data Generating or importing data.
 * Defining function for the distribution.
